@@ -32,10 +32,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".rvmrc" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name=".rvmrc" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.rvmrc">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="28" selection-start="28" selection-end="28" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="90">
+            <state line="0" column="26" selection-start="26" selection-end="26" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="623">
               <folding />
             </state>
           </provider>
@@ -46,18 +46,16 @@
           <provider selected="true" editor-type-id="text-editor">
             <state line="6" column="20" selection-start="275" selection-end="275" vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="945">
               <folding>
-                <marker date="1388384713516" expanded="true" signature="31:1618" placeholder="do ... end" />
-                <marker date="1388384713516" expanded="true" signature="57:254" placeholder="#..." />
                 <marker date="1388384713516" expanded="true" signature="279:1614" placeholder="#..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="times2_controller.rb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="times2_controller.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/controllers/times2_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="18" selection-start="117" selection-end="117" vertical-scroll-proportion="0.11574074" vertical-offset="0" max-vertical-offset="648">
+            <state line="10" column="0" selection-start="131" selection-end="131" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="240">
               <folding />
             </state>
           </provider>
@@ -87,9 +85,9 @@
         <option value="$PROJECT_DIR$/config/routes.rb" />
         <option value="$PROJECT_DIR$/app/views/times2/time.html.erb" />
         <option value="$PROJECT_DIR$/Gemfile" />
-        <option value="$PROJECT_DIR$/.rvmrc" />
         <option value="$PROJECT_DIR$/app/views/times2/time.haml" />
         <option value="$PROJECT_DIR$/app/controllers/times2_controller.rb" />
+        <option value="$PROJECT_DIR$/.rvmrc" />
       </list>
     </option>
   </component>
@@ -724,8 +722,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="6" column="20" selection-start="275" selection-end="275" vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="945">
           <folding>
-            <marker date="1388384713516" expanded="true" signature="31:1618" placeholder="do ... end" />
-            <marker date="1388384713516" expanded="true" signature="57:254" placeholder="#..." />
             <marker date="1388384713516" expanded="true" signature="279:1614" placeholder="#..." />
           </folding>
         </state>
@@ -763,8 +759,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="6" column="20" selection-start="275" selection-end="275" vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="945">
           <folding>
-            <marker date="1388384713516" expanded="true" signature="31:1618" placeholder="do ... end" />
-            <marker date="1388384713516" expanded="true" signature="57:254" placeholder="#..." />
             <marker date="1388384713516" expanded="true" signature="279:1614" placeholder="#..." />
           </folding>
         </state>
@@ -811,24 +805,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.rvmrc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="28" selection-start="28" selection-end="28" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="616">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/routes.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="20" selection-start="275" selection-end="275" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="945">
-          <folding>
-            <marker date="1388384713516" expanded="true" signature="31:1618" placeholder="do ... end" />
-            <marker date="1388384713516" expanded="true" signature="57:254" placeholder="#..." />
-            <marker date="1388384713516" expanded="true" signature="279:1614" placeholder="#..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/times2/time.haml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="3" column="0" selection-start="26" selection-end="26" vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="165">
@@ -838,7 +814,23 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/times2_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="18" selection-start="117" selection-end="117" vertical-scroll-proportion="0.11574074" vertical-offset="0" max-vertical-offset="648">
+        <state line="10" column="0" selection-start="131" selection-end="131" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="240">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/routes.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="20" selection-start="275" selection-end="275" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="945">
+          <folding>
+            <marker date="1388384713516" expanded="true" signature="279:1614" placeholder="#..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.rvmrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="26" selection-start="26" selection-end="26" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="623">
           <folding />
         </state>
       </provider>
